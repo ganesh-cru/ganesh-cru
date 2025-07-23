@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ganesh-portfolio-teal.vercel.app/](https://ganesh-portfolio-teal.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com](https://hashnode.com)
-
 - 📫 How to reach me **ganeshkumar9043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
